@@ -1,0 +1,330 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Nike Air Force 1 '07",
+      "gender": "man",
+      "brand": "nike",
+      "category": "street",
+      "price": 6707.25,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-mens-shoes-5QFp5Z.png"
+    },
+    {
+      "id": 2,
+      "title": "Nike Air Jordan 1 Mid SE",
+      "gender": "man",
+      "category": "street",
+      "brand": "nike",
+      "price": 3000,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/616a8a2f-193d-437c-b336-b4df8eacf0d3/air-jordan-1-mid-se-mens-shoes-NmCVXd.png"
+    },
+    {
+      "id": 3,
+      "title": " New Balance Fresh Foam Cruzv1 Reissue",
+      "gender": "man",
+      "category": "sport",
+      "brand": "new balance",
+      "price": 3597.53,
+      "images": "https://nb.scene7.com/is/image/NB/mcrzrbp1_nb_02_i?$pdpflexf2$&wid=440&hei=440"
+    },
+    {
+      "id": 4,
+      "title": "Adidas NMD_R1 SHOES",
+      "gender": "man",
+      "category": "sport",
+      "brand": "adidas",
+      "price": 6402.38,
+      "images": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c62370c2c6994494a2d7aed701481170_9366/NMD_R1_Shoes_Black_GX9887.jpg"
+    },
+    {
+      "id": 5,
+      "title": "New Balance Fresh Foam Cruzv1 Reissue",
+      "gender": "woman",
+      "category": "sport",
+      "brand": "new balance",
+      "price": 3597.53,
+      "images": "https://nb.scene7.com/is/image/NB/wcrzrsl1_nb_02_i?$pdpflexf2$&wid=440&hei=440"
+    },
+    {
+      "id": 6,
+      "title": "Nike PG 6",
+      "gender": "man",
+      "category": "sport",
+      "brand": "nike",
+      "price": 6707.25,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15885446-0047-4267-a579-d1c1266897c4/pg-6-basketball-shoes-BP9Wkt.png"
+    },
+    {
+      "id": 7,
+      "title": "Nike Air Force 1 '07 SE",
+      "gender": "woman",
+      "category": "street",
+      "brand": "nike",
+      "price": 7317,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3e5fbe25-a732-4a52-b719-d3b37f2b5149/air-force-1-07-se-womens-shoes-bt2vW8.png"
+    },
+    {
+      "id": 8,
+      "title": "Nike Free Metcon 4",
+      "gender": "woman",
+      "category": "run",
+      "brand": "nike",
+      "price": 7317,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1bd23340-f494-420b-a1f1-91214da76018/free-metcon-4-womens-training-shoes-pxHVt9.png"
+    },
+    {
+      "id": 9,
+      "title": "Adidas HARDEN VOL. 6 SHOES",
+      "gender": "woman",
+      "category": "street",
+      "brand": "adidas",
+      "price": 8231.63,
+      "images": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3900f5cc668a4e33a79badeb001843ac_9366/Harden_Vol._6_Shoes_Black_GV8704_04_standard.jpg"
+    },
+    {
+      "id": 10,
+      "title": "PUMA Graviton AW21",
+      "gender": "man",
+      "category": "street",
+      "brand": "puma",
+      "price": 9990,
+      "images": "https://pumakyrgyzstan.kg/images/products/jpg/38073801185x185.jpg?v4.28"
+    },
+    {
+      "id": 11,
+      "title": "PUMA Wild Rider Pickup AW21",
+      "gender": "man",
+      "category": "sport",
+      "brand": "puma",
+      "price": 5990,
+      "images": "https://pumakyrgyzstan.kg/images/products/jpg/38163703185x185.jpg?v4.28"
+    },
+    {
+      "id": 12,
+      "title": "PUMA RS-2K CORE SS21",
+      "gender": "man",
+      "category": "street",
+      "brand": "puma",
+      "price": 5490,
+      "images": "https://pumakyrgyzstan.kg/images/products/jpg/37536701185x185.jpg?v4.28"
+    },
+    {
+      "id": 13,
+      "title": "Nike SB Zoom Blazer Mid",
+      "gender": "man",
+      "category": "street",
+      "brand": "nike",
+      "price": 7587.06,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bee2c833-10ee-4b35-a8af-30ba70f7acb0/sb-zoom-blazer-mid-skate-shoes-qX3MZV.png"
+    },
+    {
+      "id": 14,
+      "title": "Nike Cosmic Unity 2",
+      "gender": "man",
+      "category": "sport",
+      "brand": "nike",
+      "price": 13488.11,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d64ba53a-20ec-44fa-9202-c9f3d8105779/cosmic-unity-2-basketball-shoes-L53XJP.png"
+    },
+    {
+      "id": 15,
+      "title": "Nike Air Force 1 '07 Premium",
+      "gender": "man",
+      "category": "street",
+      "brand": "nike",
+      "price": 10116.08,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/312b1c49-554c-453b-976a-3987af5d6fd1/air-force-1-07-premium-mens-shoes-jTLc6j.png"
+    },
+    {
+      "id": 17,
+      "title": "Lining Sport Plus",
+      "gender": "woman",
+      "category": "street",
+      "brand": "lining",
+      "price": 5012,
+      "images": "https://ae04.alicdn.com/kf/S9e541e462af54a75af611dce566bd701d/Li-Ning.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Skechers Slip-ins: Ultra Flex 3.0 - Fresh Time",
+      "gender": "woman",
+      "category": "run",
+      "brand": "skechers",
+      "price": 7587,
+      "images": "https://www.skechers.com/dw/image/v2/BDCN_PRD/on/demandware.static/-/Sites-skechers-master/default/dw2128fe09/images/large/149707_WBK_E.jpg?sw=1120"
+    },
+    {
+      "id": 19,
+      "title": "Lining Smart Moving Running Shoes",
+      "gender": "woman",
+      "category": "run",
+      "brand": "lining",
+      "price": 3.692,
+      "images": "https://static.tildacdn.com/tild6465-6561-4336-b630-383064396264/ARKQ006-1-A.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Lining The Trend Classic Shoes",
+      "gender": "woman",
+      "category": "street",
+      "brand": "lining",
+      "price": 3.236,
+      "images": "https://static.tildacdn.com/tild3630-6135-4962-b665-373034386630/agcq032.png"
+    },
+    {
+      "id": 21,
+      "title": "Lining The Trend Stylish Shoes",
+      "gender": "woman",
+      "category": "street",
+      "brand": "lining",
+      "price": 3.999,
+      "images": "https://static.tildacdn.com/tild6639-6562-4362-b635-323461383032/aglq024-3.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Adidas NIZZA PLATFORM SHOES",
+      "gender": "woman",
+      "category": "street",
+      "brand": "adidas",
+      "price": 4130.73,
+      "images": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eec160da7d2f41d1bd6aabeb0009028d_9366/Nizza_Platform_Shoes_Black_FV5321_01_standard.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Adidas ULTRABOOST 22 SHOES",
+      "gender": "woman",
+      "category": "run",
+      "brand": "adidas",
+      "price": 8008.57,
+      "images": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3fd7f5180f7144009431adf90156e52c_9366/Ultraboost_22_Shoes_White_GX6302_01_standard.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Adidas CLOUDFOAM PURE 2.0 SHOES",
+      "gender": "woman",
+      "category": "run",
+      "brand": "adidas",
+      "price": 3793.53,
+      "images": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/80d6ba756b204eb9abfcaecf009156cd_9366/Cloudfoam_Pure_2.0_Shoes_Black_GV8937_01_standard.jpg"
+    },
+    {
+      "id": 25,
+      "title": "ADIDAS BY STELLA MCCARTNEY",
+      "gender": "woman",
+      "category": "run",
+      "brand": "adidas",
+      "price": 10537.59,
+      "images": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7257d35223e14114a785ae6f017b7d19_9366/adidas_by_Stella_McCartney_Ultraboost_22_Shoes_White_GY4410_01_standard.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Reebok Club C Double GEO SS22",
+      "gender": "man",
+      "category": "street",
+      "brand": "reebok",
+      "price": 12990,
+      "images": "https://inter-sport.s3.amazonaws.com/products/GX8766/ftwr%20white_ftwr%20wh/GX8766-1_resized_400X400.png"
+    },
+    {
+      "id": 27,
+      "title": "Experiment 4 Fury Trail by Pyer Moss",
+      "gender": "man",
+      "category": "street",
+      "brand": "reebok",
+      "price": 21075,
+      "images": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/354a8d9dfd1b4d979a8dae9301443ff6_9366/Experiment_4_Fury_Trail_by_Pyer_Moss_Multi_GY9893_03_standard.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Reebok Resonator Mid Shoes",
+      "gender": "man",
+      "category": "street",
+      "brand": "reebok",
+      "price": 6322,
+      "images": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ef2b2ca96f184323a0d9ae74016c24ff_9366/Resonator_Mid_Shoes_White_GW9793_03_standard.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Reebok Nanoflex Adventure TR",
+      "gender": "man",
+      "category": "run",
+      "brand": "reebok",
+      "price": 7587,
+      "images": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1d058d3fd1264691a95daf43014bb074_9366/Nanoflex_Adventure_TR_Men's_Training_Shoes_Grey_GY9778_HM1.jpg"
+    },
+    {
+      "id": 30,
+      "title": "PUMA Velocity Nitro 2 SS22",
+      "gender": "man",
+      "category": "run",
+      "brand": "puma",
+      "price": 17990,
+      "images": "https://pumakyrgyzstan.kg/images/products/jpg/19533704320x320.jpg?v4.28"
+    },
+    {
+      "id": 31,
+      "title": "PUMA PWRFrame TR AW22",
+      "gender": "man",
+      "category": "run",
+      "brand": "puma",
+      "price": 10990,
+      "images": "https://pumakyrgyzstan.kg/images/products/jpg/37604902185x185.jpg?v4.28"
+    },
+    {
+      "id": 33,
+      "title": "PUMA RS-2K CORE SS21",
+      "gender": "man",
+      "category": "street",
+      "brand": "puma",
+      "price": 5490,
+      "images": "https://pumakyrgyzstan.kg/images/products/jpg/37536701185x185.jpg?v4.28"
+    },
+    {
+      "id": 34,
+      "title": "Nike Air Jordan 7 Retro",
+      "gender": "man",
+      "category": "street",
+      "brand": "nike",
+      "price": 16860,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/11de4715-a626-4221-b253-548a897f30d9/air-jordan-7-retro-mens-shoes-7Zr804.png"
+    },
+    {
+      "id": 35,
+      "title": "Nike Air Force 1 '07 High",
+      "gender": "man",
+      "category": "street",
+      "brand": "nike",
+      "price": 8935,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed1b459f-e09a-4b64-9b29-fb0c5d78b49f/air-force-1-07-high-mens-shoes-XTJLXX.png"
+    },
+    {
+      "id": 36,
+      "title": "Nike Air Force 1 '07",
+      "gender": "man",
+      "category": "street",
+      "brand": "nike",
+      "price": 12700,
+      "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/78f9a271-d252-4052-8a24-58615de16ab4/air-force-1-07-ayakkab%C4%B1s%C4%B1-Wpr816.png"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@mail.ru",
+      "password": "$2a$10$NsoZtqQFTgUJSCvjlLHQR.vJ17DLQZRQMg9Ai4/vmpmZk0fDjnG0u",
+      "login": "admin",
+      "id": 1
+    },
+    {
+      "email": "a@a.a",
+      "password": "$2a$10$vXoYW/cnbtBfr7bCTvDis.efjUq1DVqFsMgMtMels9fVHlCIFlm7q",
+      "login": "a",
+      "id": 2
+    },
+    {
+      "email": "qwerty@qwerty.qwerty",
+      "password": "$2a$10$hKeh2lWWWXUscmtprO9B9.88yEgBV2D8LLOf.xYQc9A.VLLqUKLxO",
+      "login": "qwerty",
+      "id": 3
+    }
+  ]
+}

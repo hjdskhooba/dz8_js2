@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="./src/css/style.css">
+</head>
+<body>
+<main>
+    <section class="admin">
+        <aside class="admin__aside">
+            <h2 class="admin__aside-title">Admin Panel</h2>
+            <ul class="admin__list">
+                <li class="admin__item admin__item-active">Orders</li>
+                <li class="admin__item">Products</li>
+                <li class="admin__item">Users</li>
+            </ul>
+        </aside>
+        <div class="admin__info admin__info-active">
+            <h2 class="admin__info-title">Orders</h2>
+            <table class="admin__table ">
+                <tr class="admin__table-head">
+                <th class="admin__table-title">id</th>
+                <th class="admin__table-title">title</th>
+                <th class="admin__table-title">price</th>
+                <th class="admin__table-title">gender</th>
+                <th class="admin__table-title">brand</th>
+                <th class="admin__table-title">category</th>
+                <th class="admin__table-title">add</th>
+                <th class="admin__table-title">remove</th>
+                </tr>
+                <tr class="admin__table-desc">
+                    <td class="admin__table-info">1</td>
+                    <td class="admin__table-info">Nike Air Force 2</td>
+                    <td class="admin__table-info">300р.</td>
+                    <td class="admin__table-info">man</td>
+                    <td class="admin__table-info">nike</td>
+                    <td class="admin__table-info">run</td>
+                    <td class="admin__table-info"><button class="admin__table-btn add">Add</button></td>
+                    <td class="admin__table-info"><button class="admin__table-btn remove">Remove</button></td>
+                </tr>
+            </table>
+            <div class="container">
+                <div class="admin__links">
+                    <h3 class="admin__allTitle">Quick Links</h3>
+                    <form class="admin__links-form">
+                        <button class="admin__links-btn">Link Static Page</button>
+                        <button class="admin__links-btn">Link Post</button>
+                        <button class="admin__links-btn">Link Module</button>
+                    </form>
+                    <h3 class="admin__allTitle">Add New Link</h3>
+                    <form class="admin__links-form">
+                        <label class="admin__links-label">
+                            <input type="text" class="admin__links-input" placeholder="URL">
+                            <input type="text" class="admin__links-input" placeholder="Name">
+                            <button class="admin__links-btn">Add</button>
+                        </label>
+                    </form>
+                </div>
+                <div class="admin__options">
+                    <h3 class="admin__allTitle">Options</h3>
+                    <div class="admin__options-nav">
+                        <p class="admin__options-navigation">Navigation Link Spacer</p>
+                        <label for="1">
+                            <select name="" id="1" class="admin__options-select">
+                                <option value="">Wider Space</option>
+                                <option value="">Wider Space</option>
+                                <option value="">Wider Space</option>
+                            </select>
+                        </label>
+                    </div>
+                    <p class="admin__options-desc">Set the spacing between the navigation links.</p>
+                    <div class="admin__options-line"></div>
+                </div>
+            </div>
+        </div>
+        <div class="admin__info">
+            <h2 class="admin__info-title">Products</h2>
+            <table class="admin__table">
+                <tr class="admin__table-head">
+                <th class="admin__table-title">id</th>
+                <th class="admin__table-title">title</th>
+                <th class="admin__table-title">price</th>
+                <th class="admin__table-title">gender</th>
+                <th class="admin__table-title">brand</th>
+                <th class="admin__table-title">category</th>
+                <th class="admin__table-title">change</th>
+                <th class="admin__table-title">remove</th>
+                </tr>
+                <tbody class="shoes">
+
+                </tbody>
+
+            </table>
+            <div class="container">
+                <div class="admin__links">
+                    <h3 class="admin__allTitle">Quick Links</h3>
+                    <form class="admin__links-form">
+                        <button class="admin__links-btn">Link Static Page</button>
+                        <button class="admin__links-btn">Link Post</button>
+                        <button class="admin__links-btn">Link Module</button>
+                    </form>
+                    <h3 class="admin__allTitle">Add New Link</h3>
+                    <form class="admin__links-form">
+                        <label class="admin__links-label">
+                            <input type="text" class="admin__links-input" placeholder="URL">
+                            <input type="text" class="admin__links-input" placeholder="Name">
+                            <button class="admin__links-btn">Add</button>
+                        </label>
+                    </form>
+                </div>
+                <div class="admin__options">
+                    <h3 class="admin__allTitle">Options</h3>
+                    <div class="admin__options-nav">
+                        <p class="admin__options-navigation">Navigation Link Spacer</p>
+                        <label for="2">
+                            <select name="" id="2" class="admin__options-select">
+                                <option value="">Wider Space</option>
+                                <option value="">Wider Space</option>
+                                <option value="">Wider Space</option>
+                            </select>
+                        </label>
+                    </div>
+                    <p class="admin__options-desc">Set the spacing between the navigation links.</p>
+                    <div class="admin__options-line"></div>
+                </div>
+            </div>
+        </div>
+        <div class="admin__info">
+            <h2 class="admin__info-title">Users</h2>
+            <table class="admin__table">
+                <tr class="admin__table-head">
+                <th class="admin__table-title">Id</th>
+                <th class="admin__table-title">Email</th>
+                <th class="admin__table-title">Login</th>
+                <th class="admin__table-title">Orders Count</th>
+                <th class="admin__table-title">User Change</th>
+                <th class="admin__table-title">User Ban</th>
+                </tr>
+                <tbody class="users">
+
+                </tbody>
+            </table>
+            <div class="container">
+                <div class="admin__links">
+                    <h3 class="admin__allTitle">Quick Links</h3>
+                    <form class="admin__links-form">
+                        <button class="admin__links-btn">Link Static Page</button>
+                        <button class="admin__links-btn">Link Post</button>
+                        <button class="admin__links-btn">Link Module</button>
+                    </form>
+                    <h3 class="admin__allTitle">Add New Link</h3>
+                    <form class="admin__links-form">
+                        <label class="admin__links-label">
+                            <input type="text" class="admin__links-input" placeholder="URL">
+                            <input type="text" class="admin__links-input" placeholder="Name">
+                            <button class="admin__links-btn">Add</button>
+                        </label>
+                    </form>
+                </div>
+                <div class="admin__options">
+                    <h3 class="admin__allTitle">Options</h3>
+                    <div class="admin__options-nav">
+                        <p class="admin__options-navigation">Navigation Link Spacer</p>
+                        <label for="3">
+                            <select name="" id="3" class="admin__options-select">
+                                <option value="">Wider Space</option>
+                                <option value="">Wider Space</option>
+                                <option value="">Wider Space</option>
+                            </select>
+                        </label>
+                    </div>
+                    <p class="admin__options-desc">Set the spacing between the navigation links.</p>
+                    <div class="admin__options-line"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<div class="overlay">
+    <div class="popup-user">
+        <form class="popup-user__form">
+            <h2 class="popup-user__form-title">
+                User Change
+            </h2>
+            <div class="popup-user__form-block">
+                <input type="text" class="popup-user__form-input" placeholder="Change email">
+            </div>
+            <div class="popup__form-block">
+                <input type="text" class="popup-user__form-input" placeholder="Change login">
+            </div>
+            <button class="popup-user__form-btn" type="submit">
+                Change
+            </button>
+        </form>
+    </div>
+</div>
+
+<script src="src/js/main.js"></script>
+</body>
+</html>

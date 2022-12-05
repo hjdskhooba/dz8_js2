@@ -1,0 +1,39 @@
+.register,
+.login {
+  &__title {
+    @include text($int, normal, 700, 32px, 0, black);
+    margin: 42px auto 40px;
+    text-align: center;
+  }
+  &__form {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 220px;
+    gap: 10px;
+    text-align: center;
+  }
+  &__input {
+    padding: 12px 15px;
+    border-radius: 10px;
+    border: 1px solid #bdbdbd;
+  }
+  &__error {
+    @include text($int, normal, 300, 12px, 0, #ff6464);
+    text-align: start;
+    margin: 0;
+    display: none;
+  }
+  &__btn {
+    @include text($int, normal, 600, 16px, 0, #fff);
+    padding: 13px;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+    background-color: #9dd458;
+  }
+  &__sign {
+    @include text($int, normal, 500, 15px, 0, black);
+  }
+}
